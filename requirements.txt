@@ -1,0 +1,15 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# AI SDK (2026 Standard)
+google-genai
+
+# Data Validation
+pydantic >= 2.10
+
+# Environment Management
+python-dotenv
+
+# Utilities
+requests
